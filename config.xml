@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+xmlns:gap = "http://phonegap.com/ns/1.0"
+id = "com.phonegap.app3-MOG"
+version = "1.0.0">
+
+<name>PhoneGap-David3</name>
+
+<description>
+phoneGap app3 David
+</description>
+
+<author  email="davidcleon117@gmail.com">
+David Cuevas
+</author>
+<icon src="img/icono.png" gap:density="ldpi" gap:platform="android" />
+<icon src="img/icono.png" gap:density="mdpi" gap:platform="android" />
+<icon src="img/icono.png" gap:density="hdpi" gap:platform="android" />
+<icon src="img/icono.png" gap:density="xhdpi" gap:platform="android" />
+
+</widget>
